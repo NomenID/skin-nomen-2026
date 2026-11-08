@@ -1,4 +1,12 @@
 <?php
+/*
+ * Copyright (c) 2025-2026 Yunyun (Wang Yaoze)
+ * Licensed under the GNU General Public License, version 3 or any later
+ * version, with additional attribution terms in the NOTICE file.
+ * Source: https://github.com/NomenID/skin-nomen-2026
+ * Project: https://nomen.caellab.com/
+ */
+
 $brand = \Nomen\Src\Brand::all();
 $loggedIn = \Nomen\Src\Session::get('user_id');
 $title = \Nomen\Src\Brand::get('name', 'Nomen');
