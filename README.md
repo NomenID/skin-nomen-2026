@@ -14,4 +14,4 @@ git clone https://github.com/NomenID/skin-nomen-2026.git skins/nomen-2026
 
 ## 许可
 
-GPL-3.0-only，见 [LICENSE](LICENSE)。
+Apache-2.0，见 [LICENSE](LICENSE)。

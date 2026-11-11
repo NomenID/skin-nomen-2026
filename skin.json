@@ -1,7 +1,7 @@
 {
     "name": "Nomen 2026",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Default skin: universal home page, starfield background, card-style auth pages",
-    "license": "GPL-3.0-only",
+    "license": "Apache-2.0",
     "author": ["Yunyun (Wang Yaoze)"]
 }
